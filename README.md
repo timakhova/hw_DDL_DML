@@ -19,3 +19,10 @@ SOURCE /home/timakhovanm/sakila-db/sakila-data.sql;
 ![3db](https://github.com/timakhova/hw_DDL_DML/blob/main/1-3db.png)
 
 Задание 2
+
+SHOW KEYS FROM table_name WHERE Key_name = 'PRIMARY';
+
+![1tables](https://github.com/timakhova/hw_DDL_DML/blob/main/2-1tables.png)
+
+
+
